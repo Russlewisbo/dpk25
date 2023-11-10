@@ -1,5 +1,10 @@
 ---
-
+title: "Impact of Dimitrios P. Kontoyiannis on Mucormycosis Research and Medical Mycology"
+format: html
+editor: visual
+bibliography: references.bib
+csl: clinical-infectious-diseases.csl
+---
 
 # Impact of Dimitrios P. Kontoyiannis on Mucormycosis Research and Medical Mycology
 

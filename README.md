@@ -3,19 +3,13 @@ title: "Impact of Dimitrios P. Kontoyiannis on Mucormycosis Research and Medical
 format: html
 editor: visual
 bibliography: references.bib
-csl: clinical-infectious-diseases.csl
+csl: journal-of-fungi.csl
 ---
 
 # Impact of Dimitrios P. Kontoyiannis on Mucormycosis Research and Medical Mycology
 
-Russell E. Lewis
-Department of Medical Medicine, University of Padua, Padua, Italy
+Russell E. Lewis Department of Medical Medicine, University of Padua, Padua, Italy
 
 ## Introduction
-Dimitrios Kontoyiannis is undoubtably one of the most prolific clinician-scientists in the field of infectious diseases and medical mycology. He has authored or co-authored over 680 publications dealing with everything from the basic biology and pathogensis of fungal species and antifungal resistance, to key epidemiological studies, diagnostic and regiographic approaches of infections and fungal infections in immunocompromised hosts, studies of novel drug activity and therapeutic approaches for invasive fungal infections in animal models, and has led clinical trials of new antifungal therapies in patients.[^1] However, among all of the infections he has studied during his career, invasive mucormycosis holds a special fascination for Dimitrios
 
-
-
-[^1]: Source: SCOPUS, Accessed November 10, 2023
-
-
+Dimitrios Kontoyiannis is undoubtedly one of the most prolific clinician-scientists in the field of infectious diseases and medical mycology. He has authored or co-authored over 680 publications dealing with topics ranging from the basic biology and pathogenesis of fungal species and antifungal resistance, to the epidemiological studies and diagnosis of rare fungal diseases in immunocompromised hosts, studies of novel drug activity and therapeutic approaches for invasive fungal infections in animal models, and clinical trials of new antifungals in patients. However, invasive mucormycosis holds a special fascination for Dimitrios and is among his most frequently cited work (Table 1)

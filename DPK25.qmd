@@ -1,15 +1,40 @@
 ---
 title: "The Impact of Dimitrios P. Kontoyiannis on Mucormycosis Research and Medical Mycology"
+author: Russell E. Lewis
+affiliation: Department of Molecular Medicine, University of Padova
 format: html
 editor: visual
+bibliography: references.bib
+csl: journal-of-fungi.csl
 ---
 
-## ABSTRACT
+## Abstract
 
 ## Introduction
 
-Dimitrios P. Kontoyiannis is an accomplished clinician-scientist who has made significant contributions to the fields of infectious diseases and medical mycology over the course of his 25-year research career. His expertise spans a broad range of topics and has resulted in numerous influential papers in the fields of fungal pathogenesis, antifungal therapeutics, as well as epidemiological descriptions of every major opportunistic fungal pathogen.
+Dimitrios P. Kontoyiannis is an accomplished clinician-scientist who has made significant contributions to the fields of infectious diseases and medical mycology over the course of his 25-year research career. His expertise spans a broad range of topics and has resulted in many influential papers in the fields of fungal pathogenesis, antifungal therapeutics, as well as epidemiological descriptions of every major opportunistic fungal pathogen.
 
-Dimitrios's work has included investigations that elucidated molecular mechanisms of antifungal resistance and biofilm formation in yeast, secondary metabolite production by *Aspergillus* and inhibition of host angiogenesis, as well as immunoprofiling animal and human host responses to fungal pathogens. His laboratory has excelled in developing both invertebrate and vertebrate animal models for major opportunistic mycoses used in translational research to investigate strategies for optimizing antifungal therapy. These models have provided many new insights into the mechanisms of infection and strategies for optimizing antifungal treatment. Dr. Kontoyiannis's group has also published seminal epidemiological studies of major opportunistic fungal pathogens in hemato-oncology patients. His research has provided crucial insights into the prevalence and distribution of fungal diseases, as well as the various organ manifestations encountered in immunocompromised hosts. These epidemiological descriptions have played a vital role in shaping our understanding of these diseases and guiding clinical management.
+Dimitrios's lab has elucidated molecular mechanisms of antifungal resistance and biofilm formation in yeast, secondary metabolite production by *Aspergillus* and the toxin's effect on host angiogenesis, as well as studies of both animal and human host responses to fungal pathogens. His laboratory has excelled in developing both invertebrate and vertebrate animal models for many opportunistic mycoses to investigate strategies for optimising antifungal therapy. Dr. Kontoyiannis and colleagues have also published seminal epidemiological studies of virtually every major opportunistic fungal pathogens in patients undergoing treatment for hematological malignancies. This work has helped define both the the prevalence and various organ manifestations of these diseases encountered in immunocompromised hosts to help guide diagnosis and effective treatment.
 
-What distinguishes Dr. Kontoyiannis is not only his broad knowledge and expertise, but also his exceptional creativity and productivity. He has demonstrated an ability to tackle diverse research areas and consistently produce high-impact publications. However, his research
+As a colleague who worked closely with Dimitrios for over a decade, I know he is especially fascinated *Mucorales*. Some of his most creative and productive lines of research focused on this devastating pathogen. As part of this special series in the *Journal of Fungi*, I have been invited to review a quarter century of Dimitrios Kontoyiannis' contributions to the diagnosis and management of mucormycosis (@tbl-1). My aim is not to provide an exhaustive review of all of his publications, rather to provide some background of why certain reserch questions were pursued and the challenges we encountered in managing patients with mucormycosis and how this informed research questions that were pursued in the laboratory. My hope is that this review will be instructive to young clinician-investigators with similar interests in improving the treatment of neglected, but difficult to treat infections.
+
+| Investigator (Last name, First initials) | Number of papers |
+|------------------------------------------|------------------|
+| Kontoyiannis, D.P.                       | 78               |
+| Ibrahim, A.S.                            | 57               |
+| Chakrabarti, A.                          | 54               |
+| Walsh, T.J.                              | 39               |
+| Lortholary, O.A.                         | 38               |
+| Sharma, S.                               | 37               |
+| Rudramurthy, S.M.                        | 36               |
+| Cornely, O.A.                            | 35               |
+| Agarwal, R.                              | 31               |
+| Sharma, A.                               | 30               |
+
+: Top 10 authors publishing on mucormycosis. Data were extracted from the PubMed database searching "mucormycosis" or "zygomycosis" and data were extracted using the R packages PubmedR [@pubmedR] and Bibliometrix [@bibliometrix-3]. {#tbl-1}
+
+**"Go where there are infections ..."**
+
+Young clinicians who want to pursue a specific field of infectious diseases are often advised early in their carrier to go work where the infections are most prevalent. Dimitrios took this advice to heart and left his native Greece after completing medical school and his compulsory military service to work as a research fellow in the United States at The University of Texas M.D. Anderson Cancer Center in Houston, Texas. At that time, Chief of the Infectious at M.D. Anderson was Gerald Bodey- a giant in the field of infectious diseases in immunocompromised patients whose work established much of the empirical treatment approaches still in use today. At the dawn of the modern chemotherapy era for leukemia, Bodey was also one of the first investigators to establish the importance of opportunistic fungal infections, including mucormycosis, which was the third most commonly isolated fungal infection in autopsy studies of leukemia patients in the 1960s.
+
+During his initial time at M.D. Anderson Cancer Center, Dimitrios also worked closely with Elias Anaissie, a hematologist-infectious diseases specialist and a leading figure in clinical mycology. Among the first 5 papers Dimitrios co-authored with Anaissie in the early 1990s, two were focused on mucormycosis. The first paper was a case series and review of *Cunninghamella bertolletiae* infections in patients with leukemia published in 1994 [@Kontoyianis1994].
